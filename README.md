@@ -25,8 +25,8 @@ You can install the required packages using pip:
 ### Setup
 1. Clone the repository:
 
-`git clone https://github.com/yourusername/lad-transformer.git
-cd lad-transformer` 
+`git clone https://github.com/shaemclaughlin/Genome-Architecture-Transformers.git
+cd lad-transformer`
 
 2. Ensure that you have the encoded sequence data stored in a Google Drive directory named "encoded_sequences". The data should be in the form of .npz files, with each file containing the sequences and lad_percentages arrays.
 
